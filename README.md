@@ -1,4 +1,5 @@
-# vue-star-rating
+# vue-rating
+Just a simple vue-rating component https://vue-rating.netlify.app/
 
 ## Project setup
 ```
